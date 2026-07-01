@@ -1,0 +1,44 @@
+canonical_identifier: bkk:krp/KR6j0104/v1
+canonical_location: https://kanripo.org/bkk/KR6j0104/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 金剛頂經瑜伽觀自在王如來修行法
+  identifiers:
+    alt_id:
+    - T19n0932
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0932.xml
+    old_id: T19n0932
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0104_000.yaml, hash: 'sha256:47cbf1fdcba65b11e0a8c58acde0125e1e320f47692c20229b94f7905133ab7b'}
+  - {seq: 1, filename: KR6j0104_001.yaml, hash: 'sha256:231e731e66c1032023d1d0a90337ea0061be9126cd934166f8cafa1c50564d7e'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0104_001.markers.yaml, hash: 'sha256:aaa1fce18a714ccfd7308f78782c5168648140845db70b5e4eac79fa91707844'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0104_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 5012
+  label: '金剛頂經瑜伽觀自在王如來
+
+    修行法'
+  type: juan
+  level: 1
+hash: sha256:1cd290ea61f245ef95b5d080f0196b77b9596060dac73ef6c6aee7f4671e6aa3
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

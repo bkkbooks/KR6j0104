@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR6j0104/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0104/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛頂經瑜伽觀自在王如來修行法
+  identifiers:
+    krp: KR6j0104
+    cbeta: T19n0932
+    cbeta_old_id: T19n0932
+    authorityid: CA0001633
+    json_key: T0932
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0932.xml
+    old_id: T19n0932
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0104_000-T.yaml, hash: 'sha256:47cbf1fdcba65b11e0a8c58acde0125e1e320f47692c20229b94f7905133ab7b'}
+  - {seq: 1, filename: KR6j0104_001-T.yaml, hash: 'sha256:fd75ea94e1030137f7f9b3c0eb38296b173ab1df05092b4eb34d0e59cbf7940a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0104_000-T.markers.yaml, hash: 'sha256:0714e2aea0f754158cd397ae496df00a46b5d2632ebce3bfff0dd61e57ec85ee'}
+  - {seq: 1, role: markers, filename: assets/KR6j0104_001-T.markers.yaml, hash: 'sha256:a905bd039530c0d162f162af835a41855d99424e22eba57443322b7e935ef315'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0104_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 5012
+  label: '金剛頂經瑜伽觀自在王如來
+
+    修行法'
+  type: juan
+  level: 1
+hash: sha256:efe95806f24c6fe06688138a8cd339f31696d91e7677e2702f4ac74244e17997

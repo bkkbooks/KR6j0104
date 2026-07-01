@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0104/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛頂經瑜伽觀自在王如來修行法
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0932.xml
+    old_id: T19n0932
+hash: sha256:47cbf1fdcba65b11e0a8c58acde0125e1e320f47692c20229b94f7905133ab7b
