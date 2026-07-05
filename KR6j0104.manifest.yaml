@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0104_000.yaml, hash: 'sha256:47cbf1fdcba65b11e0a8c58acde0125e1e320f47692c20229b94f7905133ab7b'}
-  - {seq: 1, filename: KR6j0104_001.yaml, hash: 'sha256:231e731e66c1032023d1d0a90337ea0061be9126cd934166f8cafa1c50564d7e'}
+  - {seq: 1, filename: KR6j0104_001.yaml, hash: 'sha256:fd75ea94e1030137f7f9b3c0eb38296b173ab1df05092b4eb34d0e59cbf7940a'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0104_001.markers.yaml, hash: 'sha256:aaa1fce18a714ccfd7308f78782c5168648140845db70b5e4eac79fa91707844'}
+  - {seq: 0, role: markers, filename: assets/KR6j0104_000.markers.yaml, hash: 'sha256:c0397758562fbebb33a614b2acf9989e4ffb6095269612fd68ac96c6d1258289'}
+  - {seq: 1, role: markers, filename: assets/KR6j0104_001.markers.yaml, hash: 'sha256:f8059ae1f3a85cb9b8e52ac06da42253b62a974538e7686985181eefb6b5b273'}
 table_of_contents:
 - ref:
     seq: 1
@@ -38,7 +39,4 @@ table_of_contents:
     修行法'
   type: juan
   level: 1
-hash: sha256:1cd290ea61f245ef95b5d080f0196b77b9596060dac73ef6c6aee7f4671e6aa3
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:47c10df0a5f77f04d4d856cb6a80cfc2ca09827ed78d65cfdc83ce4a4cbdb970
