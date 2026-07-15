@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0104/v1
 canonical_location: https://kanripo.org/bkk/KR6j0104/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 金剛頂經瑜伽觀自在王如來修行法
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0104_000.yaml, hash: 'sha256:47cbf1fdcba65b11e0a8c58acde0125e1e320f47692c20229b94f7905133ab7b'}
-  - {seq: 1, filename: KR6j0104_001.yaml, hash: 'sha256:fd75ea94e1030137f7f9b3c0eb38296b173ab1df05092b4eb34d0e59cbf7940a'}
+  - {seq: 1, filename: KR6j0104_001.yaml, hash: 'sha256:637aea5eea7498172525644f1979360fb83af7a2678ccb3a6f27085279dbc60d'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0104_000.markers.yaml, hash: 'sha256:c0397758562fbebb33a614b2acf9989e4ffb6095269612fd68ac96c6d1258289'}
-  - {seq: 1, role: markers, filename: assets/KR6j0104_001.markers.yaml, hash: 'sha256:f8059ae1f3a85cb9b8e52ac06da42253b62a974538e7686985181eefb6b5b273'}
+  - {seq: 1, role: markers, filename: assets/KR6j0104_001.markers.yaml, hash: 'sha256:ad33ad314d626bbd0bfd359796f8553b4c15622244250857a2af44414b085753'}
 table_of_contents:
 - ref:
     seq: 1
@@ -39,4 +39,7 @@ table_of_contents:
     修行法'
   type: juan
   level: 1
-hash: sha256:47c10df0a5f77f04d4d856cb6a80cfc2ca09827ed78d65cfdc83ce4a4cbdb970
+hash: sha256:c60dabc42e1527a65f3952600390e4594c451386eb1ad0b9bc8c099c254568f6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
